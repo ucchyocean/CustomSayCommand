@@ -1,3 +1,4 @@
 CustomSayCommand
 ================
-g‚¢•ûFpluginsƒtƒHƒ‹ƒ_‚Éjar‚ğ“ü‚ê‚é‚¾‚¯‚¾‚æI
+ãƒ€ã‚¦ãƒ³ãƒ­ãƒ¼ãƒ‰ï¼šhttps://github.com/ucchyocean/CustomSayCommand/blob/master/release/CustomSayCommand.zip?raw=true
+ä½¿ã„æ–¹ï¼špluginsãƒ•ã‚©ãƒ«ãƒ€ã«jarã‚’å…¥ã‚Œã‚‹ã ã‘ã ã‚ˆï¼
