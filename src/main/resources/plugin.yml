@@ -7,12 +7,7 @@ commands:
   say:
     description: CustomSayCommand
     aliases: []
-    usage: |
-           /<command> kit - 全プレイヤーにキットを配布する
-           /<command> clear - 全プレイヤーの持ち物を全て消去する
-           /<command> teleport - マッチングしたプレイヤーを設定したテレポート先へテレポートする
-           /<command> return - 全プレイヤーを観客席へテレポートする
-           /<command> match - 全プレイヤーをマッチングする
+    usage: /<command> (message) - サーバーにブロードキャストメッセージを表示する
     permission: customsay
     permission-message: パーミッション "<permission>" が無いため、実行できません。
 permissions:
